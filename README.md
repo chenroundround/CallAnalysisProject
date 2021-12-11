@@ -21,6 +21,6 @@ For the second part of the project, we evaluate the portion of illegal parking i
 
 #### Group name: Project Group 51 
 #### section 02
-#### Group members；
-#### Muchen Liang ml4688
-#### Yu-Hua Chen yc4030
+#### Group members：
+##### Muchen Liang ml4688
+##### Yu-Hua Chen yc4030
