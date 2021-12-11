@@ -15,4 +15,12 @@ Then we get and displayed the top 10 number of complaint types in descending ord
 
 ### Parking.ipynb
 
-In this part, we evaluate the portion of illegal parking incidents within our zip code compared to the incidents of illegal parking across the whole city and assign this value to a boolean variable called higher_parking_proportion. If the portion of illegal parking within our selected zip code with respect to all the cases within our zip code is higher than the portion of illegal parking of all areas in New York City, then thsi value is set to True. Otherwise, it returns false.
+For the second part of the project, we evaluate the portion of illegal parking incidents within our zip code compared to the incidents of illegal parking across the whole city and assign this value to a boolean variable called higher_parking_proportion. If the portion of illegal parking within our selected zip code with respect to all the cases within our zip code is higher than the portion of illegal parking of all areas in New York City, then thsi value is set to True. Otherwise, it returns false.
+
+
+
+#### Group name: Project Group 51 
+#### section 02
+#### Group members；
+#### Muchen Liang ml4688
+#### Yu-Hua Chen yc4030
