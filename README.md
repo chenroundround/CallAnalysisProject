@@ -14,3 +14,5 @@ We first extract the data that corresponds to our target zip code and get the to
 Then we get and displayed the top 10 number of complaint types in descending order the year 2020.
 
 ### Parking.ipynb
+
+In this part, we evaluate the portion of illegal parking incidents within our zip code compared to the incidents of illegal parking across the whole city and assign this value to a boolean variable called higher_parking_proportion. If the portion of illegal parking within our selected zip code with respect to all the cases within our zip code is higher than the portion of illegal parking of all areas in New York City, then thsi value is set to True. Otherwise, it returns false.
